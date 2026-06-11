@@ -11,12 +11,13 @@ export interface DesignWork {
 export const categories: Category[] = ["All", "Posters", "Branding", "Social Media", "Sports"];
 
 export const designs: DesignWork[] = [
-  { id: 1, title: "Benji Visuals — Brand Identity", category: "Branding", description: "Complete brand identity for Benji Visuals including logo, colour palette, typography and business card.", image: "/BRAND.webp" },
+  { id: 1, title: "Church Poster", category: "Posters", description: "A vibrant church event poster with strong visual identity.", image: "/church.webp" },
+  { id: 6, title: "Benji Visuals — Brand Identity", category: "Branding", description: "Complete brand identity for Benji Visuals including logo, colour palette, typography and business card.", image: "/BRAND.webp" },
   { id: 2, title: "Fighting Invisible Battles Vol. 2", category: "Posters", description: "A redesigned version of the Fighting Invisible Battles poster with a fresh layout and updated visuals.", image: "/Fighting invisible battles vol 2.webp" },
   { id: 3, title: "Crusade Poster", category: "Posters", description: "A powerful church crusade event poster.", image: "/CRUSADE POSTER.webp" },
   { id: 4, title: "Fighting Invisible Battles", category: "Posters", description: "The original church poster on mental health and spiritual warfare.", image: "/Fighting invisible battles.webp" },
   { id: 5, title: "Chapel Event Poster", category: "Posters", description: "A clean and bold event poster for a chapel service.", image: "/CHAPEL.webp" },
-  { id: 6, title: "Church Poster", category: "Posters", description: "A vibrant church event poster with strong visual identity.", image: "/church.webp" },
+  { id: 6, title: "Benji Visuals — Brand Identity", category: "Branding", description: "Complete brand identity for Benji Visuals including logo, colour palette, typography and business card.", image: "/BRAND.webp" },
   { id: 7, title: "100 Followers Milestone", category: "Social Media", description: "A celebratory social media post marking a 100 followers milestone.", image: "/100 followers.webp" },
   { id: 8, title: "Merry Christmas", category: "Posters", description: "A festive Christmas poster with warm seasonal greetings.", image: "/mc-merry-chritsmas.webp" },
   { id: 9, title: "Merry Christmas", category: "Posters", description: "A bold Christmas celebration poster with festive typography.", image: "/MERRY CHRISTMAS.webp" },
